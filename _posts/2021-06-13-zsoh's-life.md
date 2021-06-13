@@ -7,6 +7,7 @@ Name: Zain Soherwardy
 Picture: ![image](https://github.com/zsoh11/github-pages-with-jekyll/blob/main/ID-pic.jpg?raw=true)
 
 Social Media Information: 
+
 Instagram: z.soh11  
 Snapchat: z.soh
 
