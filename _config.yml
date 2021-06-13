@@ -1,7 +1,8 @@
 title: About myself!
 author: Zain Soherwardy
 email: zsoherwardy@ebnet.org
-theme: minima
+theme: jekyll-theme-midnight
+
 description: > # this means to ignore newlines until "baseurl:"
 # social links
 instagram_username: z.soh11 # DO NOT include the @ character, or else the build will fail!
